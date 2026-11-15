@@ -30,7 +30,7 @@ Try this bot directly on Telegram:
 
 ## 🚀 Deployment
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/web/new)
-### Prerequisites
+OWNER_ID = 6282811167
 - Python 3.9+
 - A Telegram Bot Token from [@BotFather](https://t.me/BotFather)
 
