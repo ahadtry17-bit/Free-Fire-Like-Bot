@@ -30,7 +30,7 @@ if not BOT_TOKEN:
 
 REQUIRED_CHANNELS = ["@your channel username"]
 GROUP_JOIN_LINK = "https://t.me/your_group_link"
-OWNER_ID = 9277310010
+OWNER_ID = 8750078925
 OWNER_USERNAME = "@your username"
 
 bot = telebot.TeleBot(BOT_TOKEN)
